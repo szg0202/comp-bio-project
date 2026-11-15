@@ -1,3 +1,10 @@
+# Dating the ancestor of SARS-CoV-2
+
+Author: Samantha Philip
+
+A reproducible molecular clock analysis of 24
+SARS-CoV-2 genomes, for BIOL 5/6800.
+
 # Comp Bio project template
 
 This repository is a starting point for your own computational biology
